@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T09:40:37.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jdVrzlKLJEUSWYbUJjR4" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T09:41:10.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3-8Y4eFObzh5O_xOlI3x" version="14.0.5" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1447" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="-C8kt0TjXY48vx6wbQoI-6" value="生产" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1112" y="480" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-C8kt0TjXY48vx6wbQoI-7" value="容灾备份" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="290" y="710" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-C8kt0TjXY48vx6wbQoI-8" value="容灾备份" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="910" y="710" width="370" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
